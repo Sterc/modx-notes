@@ -36,6 +36,7 @@ Did you know the resource edit page has a help button on the top-right?
 ## Template chooser with visual preview of the template before continuing editing
 - When you create a resource and you change the template, it reloads the whole page. In most cases you don't really know what the template looks like (for example if you don't use the CMS every day).
 - The new process would be: create a new resource, have a blank page with a template-picker which shows a list of all the available templates on the left. Clicking a template on the left, shows a preview of the template on the right (these previews would be images/screenshots uploaded manually by the developer). This saves time and frustration.
+- There is a [concept for a future "template chooser"](https://github.com/jpdevries/modx-create-resource#modx-create-resource) which originated at the Malta meetup being actively developed.
 
 ## There is a real difference between creating and editing a page
 - You probably only fill in the pagetitle/description/introtext/template when creating a page. But when you edit a page you want to go straight to the content-editor, but first you have to scroll past the meta-data.
